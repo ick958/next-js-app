@@ -1,0 +1,25 @@
+{
+  "name": "next-js-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ick958/next-js-app.git"
+  },
+  "keywords": [],
+  "author": "jelod <ickmschreiber@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ick958/next-js-app/issues"
+  },
+  "homepage": "https://github.com/ick958/next-js-app#readme",
+  "dependencies": {
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
